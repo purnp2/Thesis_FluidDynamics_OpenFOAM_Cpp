@@ -1,0 +1,6 @@
+EARSMTrans		This is the model downloaded from Dr Furst github page.
+foamDev-master		This is the collection of models and simulated cases uploaded by Robert (my senior colleague) on his GitHub page.
+kOmega			This is copy-paste of the standard k-Omega model supplied with the OpenFOAM
+transEARSM_KD		This is the model I am writting. I have used the EARSMTrans model as a source code and then added two formula for transition (Kubacki & Dick = kd)
+foamDev.zip		This is a zip folder for foamDev-master, nothing more.
+FurstJ_myTurbulenceModels_23May2019.zip		This is also a zip folder of all the materials available on the Dr Furst Github page on the date 23rd May 2019.
